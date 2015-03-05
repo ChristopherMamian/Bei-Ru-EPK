@@ -11,12 +11,21 @@ body {
     background-size: cover;
 }
 
+a {
+    color: white;
+    text-decoration: underline;
+}
+
 p {
     color:white;
     font-size: 16px;
 }
 
 h1 {
+    color:white;
+}
+
+h3 {
     color:white;
 }
 
